@@ -1,3 +1,3 @@
 # telegram_bot
-#pythgon
+#python
 #python-telegram-bot
